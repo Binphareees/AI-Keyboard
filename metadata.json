@@ -1,0 +1,8 @@
+{
+  "name": "AI Keyboard",
+  "description": "An intelligent AI-powered Android keyboard with real-time text enhancement, grammar fixing, smart summarization, tone adjustment, multilingual translation, custom themes, and clipboard manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Keyboard</string>
+    <string name="ime_name">AI Keyboard</string>
+    <string name="subtype_en">English (US)</string>
+    <string name="subtype_ha">Hausa</string>
+    <string name="subtype_es">Spanish</string>
+    <string name="subtype_fr">French</string>
+    <string name="subtype_de">German</string>
+    <string name="subtype_ar">Arabic</string>
+</resources>
